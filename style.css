@@ -1,0 +1,26 @@
+section {
+    border: 2px solid red;
+}
+
+.poco {
+    display: flex;
+    align-items: center; /* alinhamento do eixo transversal */
+    justify-content: center; /* alinhamento do eixo principal */
+    gap: 4rem; /* espasamento do display-flex */
+
+    margin-bottom: 1rem;
+}
+
+.poco img{
+    width: 20rem;
+}
+
+.poco p {
+    width: 30rem;
+    text-align: center;
+}
+
+.samsung 
+.samsung img {
+    width: 20rem;
+}
